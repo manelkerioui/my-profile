@@ -61,7 +61,7 @@ img{
 
 
 .container{
-	width: 900px;
+	width: auto;
 	margin: 20px auto;
 	border-color: black;
 	background-color: #EDDFC9;
