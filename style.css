@@ -37,15 +37,15 @@ a{
   	opacity: 0.5;
 }
 
-a:hover{
-	background-color: #666363;
-}
-
 .cta{
 	background-color: #7C7A7A;
 	padding: 10px 30px;
 	color: white;
 	border-radius: 5px;
+}
+
+.cta:hover{
+	background-color: #666363;
 }
 
 i{
